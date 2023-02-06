@@ -1,0 +1,27 @@
+/* Write your code here. */
+
+.play-button {
+  height: 30px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  background-color: #ffce27;
+  border: none;
+  border-radius: 15px;
+  margin-top: 25px;
+}
+.win-lose-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.description {
+  font-family: roboto;
+  color: #ffffff;
+}
+.win-lose-image {
+  height: 300px;
+  width: 300px;
+}
